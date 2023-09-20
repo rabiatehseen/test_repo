@@ -1,0 +1,25 @@
+What is Javascript ?
+JavaScript is a text-based programming language used both on the client-side and server-side that allows you to make web pages interactive. HTML and CSS are languages that give structure and style to web pages, JavaScript gives web pages interactive elements that engage a user. It creates elements for improving site visitors' interaction with web pages, such as dropdown menus, animated graphics, and dynamic background colors. 
+
+History of JS?
+JavaScript was originally developed by Brendan Eich of Netscape Communications Corporation in 1995 under the name Mocha, then LiveScript, and finally renamed to JavaScript. It was developed for Netscape 2, and became the ECMA-262 standard in 1997. After Netscape handed JavaScript over to ECMA, the Mozilla foundation continued to develop JavaScript for the Firefox browser. Mozilla's latest version was 1.8.5. (Identical to ES5).
+
+How to run JS?
+To run JavaScript on a browser,
+1. Open the browser (e.g.Google Chrome).
+2. Open the developer tools by right clicking on an empty area and select Inspect. 
+3. On the developer tools, go to the console tab. Then, write JavaScript code and press enter to run the code.
+
+What are datatypes of javascript?
+Data types are divided into two groups permitive an non permitive. 
+The main difference between primitive and non-primitive data types are:
+* Primitive types are predefined (already defined) in Java. Non-primitive types are created by the programmer and is not defined by Java (except for String).
+* Non-primitive types can be used to call methods to perform certain operations, while primitive types cannot.
+* A primitive type has always a value, while non-primitive types can be null.
+* A primitive type starts with a lowercase letter, while non-primitive types starts with an uppercase letter.
+* Primitive data types are number, string, boolean, NULL, Infinity and symbol. Non-primitive data types is the object. The JavaScript arrays and functions are also objects.
+
+What are variables in JavaScript?
+Variables are Containers for Storing Data. There are three types of keywords for a variable declaration in JS: var, let, and const. var x; const y; let z;.
+
+.
